@@ -1,0 +1,45 @@
+h1,
+h2,
+h3,
+h4,
+p,
+li {
+  font-family: sans-serif;
+}
+
+h1 {
+  color: blue;
+  font-size: 26px;
+  /* The font will be 26pixels of your physical screen */
+  text-transform: uppercase;
+  font-style: italic;
+}
+
+h2 {
+  font-size: 40px;
+  /* The font will be 26pixels of your physical screen */
+}
+
+h3 {
+  font-size: 30px;
+}
+
+h4 {
+  font-size: 20px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+p {
+  font-size: 22px;
+  line-height: 1.5;
+  /* Spaces changed between words */
+}
+
+li {
+  font-size: 20px;
+}
+
+footer p {
+  font-size: 16px;
+}
